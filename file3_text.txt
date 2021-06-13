@@ -1,2 +1,1 @@
-this is for revert 2 testing"
 this is the text for file 3
